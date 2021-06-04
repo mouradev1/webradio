@@ -1,0 +1,1 @@
+var sign = window.prompt('Você está se sentindo com sorte');
